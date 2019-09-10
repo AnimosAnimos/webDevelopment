@@ -1,0 +1,9 @@
+h1{
+	color: brown;
+}
+li{
+	border: solid 2px grey;
+}
+.completed{
+	text-decoration: line-through;
+}
